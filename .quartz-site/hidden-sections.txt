@@ -3,3 +3,4 @@
 # doesn't matter. A section runs until the next heading of the same or a
 # higher level. Your notes in Obsidian (and on GitHub) keep everything.
 Open questions
+Ways to add spice

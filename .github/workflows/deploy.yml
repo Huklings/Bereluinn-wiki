@@ -38,6 +38,8 @@ jobs:
           persist-credentials: false
       - name: Apply site config
         run: cp vault/.quartz-site/* quartz/
+      - name: Turn links to private notes into plain text
+        run: python3 -I vault/.github/scripts/unlink.py vault vault/.quartz-site/unlinked-notes.txt
       - uses: actions/setup-node@v6
         with:
           node-version: 24

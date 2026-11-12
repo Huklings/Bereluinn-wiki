@@ -15,6 +15,7 @@ The repo is **public**. Anything pushed here can be read on GitHub, even if the 
 - `.gitignore` keeps `meta/`, `card pulls/`, `templates/`, `GM/`, `private/` and `.obsidian/` on your computer. They are never pushed.
 - As a second guard, Quartz also skips those folders, notes with `draft: true` in their properties, and `%% comments %%`. Only images that a published note uses are copied to the site.
 - `%% comments %%` and `draft: true` notes are still readable in the repo. Put real secrets in an excluded folder.
+- Links to private notes listed in `.quartz-site/unlinked-notes.txt` show as plain text on the site (`.github/scripts/unlink.py`). The vault keeps the real links.
 
 ## The home page
 

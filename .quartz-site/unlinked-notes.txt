@@ -1,0 +1,9 @@
+# Notes that stay private. Links to them are shown as plain text on the
+# website, so readers don't land on a "not found" page. Your notes in
+# Obsidian keep the real links. One note name per line.
+Worldbuilding Gaps
+Borrowed Ideas
+Fantasy Forge Lessons
+Calendar Setup
+Open Questions
+Adaria

@@ -27,10 +27,15 @@ Secluded elves, descended from those who defected to the good side in [[The Sund
 - **The Finelor are slowly turning back into elves.** Their horns, beast faces and long fingers fade over time. The change is not permanent.
 - **They are a shrinking people.** One day there may be no Finelor left, only elves.
 - **This is debated a lot among the Finelor.** It is a real tension inside the people: some welcome the return, some fear losing who they are.
+- **How it fades (decided 12 Nov):** through rebirth, or if a Finelor somehow spends time in their god's realm. Between lives an elf soul rests in [[Athréth]]'s Waiting Wood, so both are really the same thing: time in their maker's tapestry washes the change out.
+- **Bound by oath to [[Faelath]] (decided 12 Nov).** The Finelor's change comes from Faelath, not from their maker [[Athréth]], whose power would only make them more elven.
+  - During [[The Sundering]], after Faelath had taken her mantle, these elves fought on her side and swore binding oaths to her. She answered with the hunter's gifts, so [[Verdan Ironoath]] judged the oaths binding and their souls were *dunked* in her Red Woods ([[Death and the Afterlife#How a soul finds its god (decided 2 Nov)]]). Their bodies grew to match: horns, beast faces, long fingers.
+  - To defect to the tapestry side they **broke the oath**. It is still written in Ironoath's book: broken, not cancelled. That breaking was their ordeal, and it is why it is kept quiet.
+  - "Dye takes a day, washing takes a life": a dunked soul washes out only slowly, life by life, in the Waiting Wood.
+- **Leaning (12 Nov, not yet canon):** the [[The Pale Wardens|Pale Wardens]] may do their duty *because of* the change.
 
 ### Suggestions (not canon)
-- **How it happens:** only through rebirth, each life a little more elven, so no living Finelor ever sees it in themselves (recommended); or also during a life; or both.
-- **Why they changed:** they were [[Faelath]]'s sworn hunters before the war. A binding oath *dunks* the soul in a god's colour ([[Death and the Afterlife#How a soul finds its god (decided 2 Nov)]]), and the Red Woods shaped their bodies to match. Breaking that oath to defect was the ordeal. "Dye takes a day, washing takes a life": a dunked soul takes many lives to wash out. Their maker [[Athréth]]'s power would only make them more elven, so the change must come from another god (your point, 12 Nov).
+- **The hunter's senses may be the last of Faelath's gift:** near thin spots, tracks with no animal to make them, which only a Finelor can still read. When the horns fade, the surveys end, which is the Keeping's hardest argument. Folklore: "Ironoath still has their page."
 - **The two sides of the debate:** *the Washing* (those who welcome the return as the end of the price, and a homecoming to Athréth) and *the Keeping* (those who say the horns are who the Finelor are now: proof they paid, the reason the Pale Wardens can do their work, and the Martyr's people's last mark). Working names only.
 - **Folklore:** "Count the horns, count the lives." People believe smaller horns mean an older, wiser soul.
 - **Hooks:** a Finelor child is reborn *more* beastlike than their last life (is Faelath pulling them back?); a Keeping elder looks for a way to stop the fading, perhaps the northern elves' soul-binding; the [[The Pale Wardens|Pale Wardens]] fear that when the horns are gone, so is their gift.
@@ -50,7 +55,7 @@ Secluded elves, descended from those who defected to the good side in [[The Sund
 ## Open questions
 From [[Open Questions]]. Numbers match the source doc.
 - **10.5** (Answered) They defected from the betrayer gods ([[The Gods of Desirenthropy]]).
-- **10.6** What was their sacrifice and ordeal, and why is it kept quiet?
+- **10.6** (Answered 12 Nov) Their ordeal was breaking their binding oath to [[Faelath]] to defect; it stays written in Ironoath's book, so it is kept quiet. See above.
 - **10.7** (Partly answered 12 Nov) The change is not permanent: the Finelor slowly turn back into elves, so they are a shrinking people, and they debate it. Still open: does it fade through rebirth, during a life, or both? Do they have non-horned children?
 - **10.15** Do they hold any institution, trade, temple or duty?
 - **10.16** (Answered 19 Oct) **Finelor** is canon. "Finelornian" was a typo in the drafts.

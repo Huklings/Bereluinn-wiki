@@ -26,6 +26,9 @@ Elvish, from Gaelic *faol*, "wolf", plus *-ath*, "place of": roughly "wolf-land"
 - **Fell out of favour.** For blessings in battle, the [[Aelnor]] turned to [[The Sunturner]] instead, a more benevolent warrior goddess.
 - **Domains (29 Oct):** Might, Freedom, Death, Destruction, Nature. The strong taking, the unbound wild, the kill, and what the hunt leaves behind. (Darkness was considered and dropped.)
 
+## The Finelor's broken oath (decided 12 Nov)
+The [[Finelor]] were elves who swore binding oaths to Faelath during [[The Sundering]]. Their souls were dunked in the Red Woods, which gave them horns, beast faces and long fingers. They broke the oath to defect to the tapestry side; it is still written in [[Verdan Ironoath]]'s book. Over many rebirths in [[Athréth]]'s Waiting Wood, they slowly turn back into elves.
+
 ## Her tapestry: the Red Woods (decided 30 Oct)
 Like every tapestry, it embodies its essence rather than containing it: a realm where the hunt is everywhere and stronger ([[The Tapestries]]).
 - **Rule:** everything is hunter or hunted.
@@ -44,7 +47,7 @@ Her mantle has bent her into a hunt that cannot stop: she cannot spare anything 
 ## Suggestions (not canon)
 - **Iconography:** a wolf, or a wolf's head. A grey cloak, a bow of bone, eyes in the treeline. Elves may not carve her face, only her tracks.
 - **She keeps what she kills.** The northern elves learned their soul-binding from her, which is why other elves invoke her so carefully.
-- **The Finelor's ordeal** may have been the price of leaving her ([[Finelor]], 10.6).
+- **Her faithful may want the Finelor's old oaths judged still binding.** (hook)
 
 ## Open questions
 - Which side in the Sundering, if neutral means anything for a god the losers worship?

@@ -13,7 +13,7 @@ status: draft
 
 # Languages and Naming
 
-How names work across Beredluinn. This partly answers **14.15** ([[Worldbuilding Gaps]]). The general method (sound palette, roots, joining rules, wearing names down) is in the doc [Worldbuilding: The Levont](https://claude.ai/code/artifact/7901a3cd-349a-4a4a-95b2-b4078f9db570).
+How names work across Bereluinn. This partly answers **14.15** ([[Worldbuilding Gaps]]). The general method (sound palette, roots, joining rules, wearing names down) is in the doc [Worldbuilding: The Levont](https://claude.ai/code/artifact/7901a3cd-349a-4a4a-95b2-b4078f9db570).
 
 ## Three layers (settled 19 Oct)
 Species cut across the old borders ([[Worldbuilding Principles]]), so names can't follow species alone.
@@ -198,7 +198,7 @@ Old and sacred texts keep the *h* spellings. Everyday writing in the Levont uses
 | crow | préan | *préachán* | For the red-winged crows of the marshes |
 
 ### Examples
-- **Nechodhlath**, "the place of no sleep" (*ne-* + *codhla* + *-ath*): what the elves might call the sleepless country (coined for the old working title, "the Sleepless Lands"; the world is now Beredluinn). Humans would wear it down to something like *Neckla*.
+- **Nechodhlath**, "the place of no sleep" (*ne-* + *codhla* + *-ath*): what the elves might call the sleepless country (coined for the old working title, "the Sleepless Lands"; the world is now Bereluinn). Humans would wear it down to something like *Neckla*.
 - **Coelldhúen**, "wood hold": a fort in a forest.
 - River names (approved 22 Oct) are in [[Rivers of the Levont]]: the Mallon, the Dovan, the Rissan, the Solvan, the Pren, Darlon and the Aislan, with the estuary as Cumar.
 

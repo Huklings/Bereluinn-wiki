@@ -13,7 +13,7 @@ status: canon
 
 # World Scale
 
-How big Beredluinn is, how long it takes to get anywhere, and roughly how many people live there. **The scale is canon (decided 22 October 2026).** The latitude, climate and population figures below are still suggestions. All numbers were measured from the 22 October map draft and calculated, not guessed. Answers **14.12** in [[Worldbuilding Gaps]].
+How big Bereluinn is, how long it takes to get anywhere, and roughly how many people live there. **The scale is canon (decided 22 October 2026).** The latitude, climate and population figures below are still suggestions. All numbers were measured from the 22 October map draft and calculated, not guessed. Answers **14.12** in [[Worldbuilding Gaps]].
 
 ![[Sleepless Lands scale map.jpg]]
 

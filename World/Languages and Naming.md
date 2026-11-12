@@ -295,7 +295,7 @@ These are our own, deliberately different from Khazalid's (*-az* for a thing, *-
 | Name | Tongue | Meaning | Place |
 | --- | --- | --- | --- |
 | *Muirenchloe*, worn down to **Merelon** | Elvish | sea stones | [[Merelon]] |
-| *Coellchaillen*, "the Calenwood" | Elvish | veiled wood | [[Merelon]] |
+| *Coellchaillen*, "the Calenwood" | Elvish | veiled wood | [[The Calenwood]] |
 | **Larhouse** | Common tongue | lore-house | [[Merelon]] |
 | **Suncourt** (*Sunnacourt*) | Old Frankish | court of the sun | [[Suncourt]] |
 | **Gildhem** | Old Frankish | pay home | [[Suncourt]] |

@@ -26,7 +26,7 @@ The governing body of the Larhouse, the Levont's licensed academy of magic in [[
 
 ## Suggestions (not canon)
 - **Shadow:** Birdsong grows inside the Larhouse, and the masters would rather not know ([[Merelon]]).
-- **Rivals:** the churches; the [[Calenwood Circle|Calenwood circle]] next door; unlicensed hedge casters.
+- **Rivals:** the churches; the [[Calenwood Circle|Calenwood circle]] (no longer next door since 12 Nov); unlicensed hedge casters.
 
 ## Open questions
 - What is its name?

@@ -25,7 +25,7 @@ One of [[The Tapestries]], connected to beasts. It's Bereluinn's own version of 
 - **Spillover:** dire beasts sometimes turn up in the mortal realm close to this tapestry.
 
 ## A known crossing (25 Oct)
-The fog of the **Calenwood** in [[Merelon]] is a thin spot onto this tapestry. People who wander deep into it sometimes cross into the beastfolk's realm. A druid circle of [[Tapio]]'s faith guards the wood.
+The fog of [[The Calenwood]], in the far east of the Levont (slot C), is a thin spot onto this tapestry. People who wander deep into it sometimes cross into the beastfolk's realm. A druid circle of [[Tapio]]'s faith guards the wood.
 
 ## To the Levont, a fairy tale (decided 25 Oct)
 To almost everyone in the Levont, the talking beastfolk and their societies are fairy tales and bedtime stories. Nobody thinks they're real, so nobody gives them a voice or a thought. The few who know better, such as the druids of the [[Calenwood Circle]], keep quiet.

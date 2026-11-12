@@ -20,7 +20,7 @@ Where each area of the [[Levont]] sits on the map, plus empty **slots** for new 
 Distances and travel times from the capital are in [[World Scale]], whose scale is canon.
 
 ## Placed areas
-These are the six areas from [[areas of the Levont]], plus the heartland and the March, and three more areas added 25 Oct from old drafts (C, G, D).
+These are the six areas from [[areas of the Levont]], plus the heartland and the March, and three more areas added 25 Oct from old drafts (Merelon, now B; G; D).
 
 | Slot | Area | Where on the map | Why there | Distance from the capital |
 | --- | --- | --- | --- | --- |
@@ -33,7 +33,8 @@ These are the six areas from [[areas of the Levont]], plus the heartland and the
 | **4** | Marshes | The north-central coast | Low ground with forest already drawn. Rivers from the central mountains likely drain north through it, making deltas | 155 km |
 | **5** | Charming valley | Between the big central mountain cluster and the eastern range | A sheltered valley with its own forest. The old dwarf hold sits in the mountain flank above it | 334 km |
 | **6** | Plains | Directly behind the March's main gate | The widest way in, bordered by mountains and forests, exactly as its note says | 188 km |
-| **C** | [[Merelon]] (Area 7, placed 25 Oct) | The eastern range where it meets the sea | A mountainous rocky coast, far from the capital. The Larhouse academy of magic over a fallen elven city, cut off by the foggy Calenwood | 437 km |
+| **B** | [[Merelon]] (Area 7, **moved here 12 Nov** from slot C) | The southeast coast and islands, facing Trelmheir, beside the salt steppe | Far from the capital. A school of magic over a fallen elven city besieged in the Sundering; the salt steppe next door is the battlefield where its elves fought and died, and the islands hold more of the old elven city and kingdom. Faces the toads of Trelmheir (decided 12 Nov), so this is the front line | 367 km |
+| **C** | [[The Calenwood]] (**stays here, 12 Nov**) | The eastern range where it meets the sea | A mountainous rocky coast. The foggy Calenwood, a thin spot onto the Beast Tapestry, and its druid circle. The rest of the slot is open | 437 km |
 | **G** | [[Suncourt]] (Area 8, placed 25 Oct) | The northwest interior, behind the northern marches | The Order's back country: the Tribunal, its training grounds, the festival town of Gildhem, and the Glasswood to the south | 174 km |
 | **D** | [[The Ackerdean]] (Area 9, placed 25 Oct) | Between the plains and the central basin, running south toward the lush coast | The breadbasket's farm valley, the ancient city of Aldbury, and the drowned spire off the coast | 112 km |
 | **E** | [[Wendmark]] (**canon, 28 Oct**) | The northeast, between the marshes and the eastern range | The Wendfolk's farm country. Opposite the Ackerdean, so the Levont has a larder on each side. Far from the capital, so few visit | 336 km |
@@ -44,7 +45,6 @@ These are the six areas from [[areas of the Levont]], plus the heartland and the
 | Slot | Where | Ideas so far (none chosen) | Distance from the capital |
 | --- | --- | --- | --- |
 | **A** | The southwest peninsulas, just behind the March | Sheltered harbours: a naval base, or the Levont's fishing and shipbuilding. 26 Oct: a good home for a county navy ([[Navies of the Levont]]) | 196 km |
-| **B** | The southeast coast and islands, facing Trelmheir | The Levont's sea edge toward Trelmheir. 26 Oct: if Trelmheir is the toads' island, this is the front line ([[Toad People]]) | 367 km |
 | **F** | The central basin | Farmland for the capital, and the railroad's through-route to the salt steppe | 119 km |
 | **J** | Between the heartland, the central basin, the marshes and the Veingold uplands | River country. The crossroads where elves, dwarves and the capital meet to trade, or church country with rich monasteries. (The Order's foothold idea moved to G when the Order went to the northern marches, 22 Oct) | 117 km |
 

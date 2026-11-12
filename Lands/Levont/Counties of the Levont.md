@@ -30,7 +30,7 @@ The county map and the area map are two layers: a county can hold several areas,
 | Area | Placed in | Why |
 | --- | --- | --- |
 | [[The Ackerdean]] (Area 9) | **County 1**, the lush coast's county, as its inland farm country | The drowned spire's influence already leaks along that coast, and the valley's grain and ruins tie the two together. Aldbury is the county's biggest inland town |
-| [[Merelon]] (Area 7) | **A chartered town** answering only to the council, not to any county | It hosts the council's licensed academy, and the council wants its casters under its own hand. The nearest county (the valley, County 5) resents the arrangement |
+| [[Merelon]] (Area 7) | **A chartered town** answering only to the council, not to any county | It hosts the council's licensed academy, and the council wants its casters under its own hand. The nearest county resents the arrangement: since Merelon moved to slot B (12 Nov), that is the salt steppe, County 3, not the valley |
 | [[Suncourt]] (Area 8) | **Order lands**, outside the six counties, like the northern marches | The Order answers only to the top, under its own law ([[Land, Lordship and Church]]) |
 
 ## Navies (26 Oct)

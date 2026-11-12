@@ -14,7 +14,7 @@ status: draft
 
 # Toad People
 
-A foul species from the island continent south of the Levont that clashes with Levont forces again and again. "Toad people" is a working name.
+A foul species from **Trelmheir** (decided 12 Nov), the island continent south of the Levont, that clashes with Levont forces again and again. "Toad people" is a working name.
 
 ## What we know (decided 26 Oct)
 - **Of the tapestries, but exiled.** They come from [[The Beast Tapestry]], and the other beastfolk cast them out into the mortal realm.
@@ -22,7 +22,7 @@ A foul species from the island continent south of the Levont that clashes with L
 - **Hunger is the root sin.** The rest grew out of it: hunger drove them to alchemy, alchemy needed the dark dealings, and mutation was the result.
 - **An endless appetite, not a famine.** Nothing ever filled them. That keeps them a threat that is still growing, not a tragic people.
 - **A threat like the orcs, from another direction.** The horde presses on the Levont from [[Lorweir]] in the west, and the toads come from the south.
-- **Home:** the small island continent south of the Levont. They are probably not alone there.
+- **Home:** **Trelmheir** (decided 12 Nov), the small island continent south of the Levont, facing slot B, so the southeast coast is the front line ([[Levont Area Map]], [[Merelon]]). They are probably not alone there.
 - **To the Levont, they are simply a foul species** that often clashes with Levont forces. The exile, the hunger and the alchemy are truths for players to uncover later.
 - **The beast giants hate them too** ([[Giants]]).
 
@@ -47,7 +47,7 @@ A foul species from the island continent south of the Levont that clashes with L
 ## Open questions
 - What do they call themselves, and what does the Levont call them?
 - Who else lives on the island continent?
-- Is the island **Trelmheir**, the land slot B faces ([[Levont Area Map]])? If so, slot B is the front line.
+- ~~Is the island **Trelmheir**?~~ (Answered 12 Nov: yes. Slot B, now Merelon's coast, is the front line.)
 - How do they cross the sea: boats, swimming, something they bred?
 - How were they cast out: through a seam, a tear, or something the beastfolk did to them?
 - Do they want back into the tapestry, or do they want the mortal realm?

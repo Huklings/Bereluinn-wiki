@@ -22,7 +22,8 @@ A union of six counties under a council, held together by a disputed founding st
 - [[The March]]: the keeps and villages guarding the western mountains, run by marcher lords on the Welsh Marches model. One keep stands over a derelict dwarf hold.
 - [[Levont Area Map]]: where each area sits on the map, and the open slots for new ones.
 - [[World Scale]]: size, travel times and population. The scale is canon: about the size of the United Kingdom.
-- [[Merelon]]: the Larhouse academy of magic, over a fallen elven city on the eastern coast.
+- [[Merelon]]: a school of magic over a fallen elven city on the southeast coast, facing Trelmheir (moved 12 Nov).
+- [[The Calenwood]]: the foggy wood and its druids in the far east, a thin spot onto the Beast Tapestry.
 - [[Suncourt]]: the Order of the Rising Sun's home and its Tribunal.
 - [[The Ackerdean]]: the farm valley, the ancient city of Aldbury, and the drowned spire.
 - [[Rivers of the Levont]]: the rivers and their Elvish names, the estuary (Cumar), and why the capital lives on the railroad.

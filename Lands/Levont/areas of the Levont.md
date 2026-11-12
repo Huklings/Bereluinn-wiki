@@ -13,7 +13,7 @@ area 5: a charming valley in this seemingly charming valley rests a restless spi
 Area 6: plains  this area iso ne of the largest openings into the Lovant, guarded by several garrisoned Way Stations to guard from the roaving terrors from the mountains and the forests that borders this county of plains. the county Seat hosts an bi annuall military parade, where each town and their garrison must present their own parts of the parade itself. Each town also has their own Village constables and specialist soldiers. Also located within the County Seat, which is built on an Elden Human city has managed ti unearth the ancient religious forge, some Runic weapons sometimes join the markets.
 
 
-Area 7: Merelon, a mountainous rocky coast where the elven city of magic once stood. Now the Larhouse academy of magic, with the old standing stones passed off as rubble, cut off by the foggy Calenwood and its druids. See [[Merelon]].
+Area 7: Merelon, on the southeast coast and islands (slot B, moved 12 Nov) beside the salt steppe, where the elven city of magic once stood and was besieged in the Sundering. Now a school of magic (the name Larhouse was dropped 12 Nov), with the old standing stones passed off as rubble. See [[Merelon]]. The foggy Calenwood and its druids stayed in slot C ([[The Calenwood]]).
 
 Area 8: Suncourt, the Order of the Rising Sun's home behind the northern marches: the Tribunal, the festival town of Gildhem, the falconers of the coast watch, and the warped Glasswood to the south. See [[Suncourt]].
 

@@ -13,16 +13,31 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true # a newer push replaces a build still running
+
+env:
+  # Quartz is pinned to a known commit; bump this to upgrade.
+  QUARTZ_REF: 7cfb0796165c848be5438117e9806802123bf676
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - name: Check out vault
+        uses: actions/checkout@v6
         with:
+          path: vault
           fetch-depth: 0 # full history so page dates come from git
           persist-credentials: false
+      - name: Check out Quartz
+        uses: actions/checkout@v6
+        with:
+          repository: jackyzha0/quartz
+          ref: ${{ env.QUARTZ_REF }}
+          path: quartz
+          persist-credentials: false
+      - name: Apply site config
+        run: cp vault/.quartz-site/* quartz/
       - uses: actions/setup-node@v6
         with:
           node-version: 24
@@ -30,26 +45,22 @@ jobs:
         uses: actions/cache@v5
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          key: ${{ runner.os }}-node-${{ hashFiles('vault/.quartz-site/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-      - name: Cache Quartz plugins
-        uses: actions/cache@v5
-        with:
-          path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-plugins-
       - name: Install dependencies
+        working-directory: quartz
         run: npm ci
       - name: Install Quartz plugins
+        working-directory: quartz
         run: npx quartz plugin install
-      - name: Build Quartz
-        run: npx quartz build
+      - name: Build site
+        working-directory: quartz
+        run: npx quartz build -d ../vault -o public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: quartz/public
 
   deploy:
     needs: build

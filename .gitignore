@@ -1,0 +1,19 @@
+# This vault is synced to a PUBLIC GitHub repo. Everything not listed here is
+# published. Anything listed here stays on this computer only.
+# The [Xx] brackets match either capitalisation.
+
+# Folders that must never leave this computer
+[Mm]eta/
+[Cc]ard [Pp]ulls/
+[Tt]emplates/
+[Gg][Mm]/
+[Pp]rivate/
+
+# Obsidian app state and local plugins (can contain tokens and personal settings)
+.obsidian/
+.trash/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini

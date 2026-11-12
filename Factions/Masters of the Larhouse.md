@@ -12,6 +12,8 @@ status: draft
 
 The governing body of the Larhouse, the Levont's licensed academy of magic in [[Merelon]]. Mixed species, with many [[Aelnor]] scholars. Added 25 Oct 2026. **The idea is decided; the name still needs work.**
 
+**Changed 12 Nov:** the name "Larhouse" is dropped, and the school is one of at least two licensed schools, founded by [[Wizard Houses]]. The masters, and both their name and the school's, wait for the naming pass. The candidates below are kept for reference; the Larmoot shares a root with Witan, which you turned down.
+
 ## Name candidates
 - **The Larmoot:** common tongue *lār* "lore" + *mōt* "assembly", like the Anglo-Saxon *witenagemot*.
 - **The Stone Bench:** after the elden standing stones in the Larhouse grounds.

@@ -1,5 +1,8 @@
 ---
 type: event
+aliases:
+  - The Parting
+  - the Parting
 tags:
   - type/event
   - history
@@ -9,6 +12,8 @@ status: draft
 ---
 
 # The Apotheosis
+
+**The Parting (named 12 Nov 2026)** is the name for this event: the day the wizard-lords took their mantles and parted from the mortal world, and from the apprentices they left behind ([[Wizard Houses]]). "The Apotheosis" is the older word, kept for scholars.
 
 The ascension of mortal wizard-lords past the mortal coil, to become the good gods. It was a **ritual**, built on the discoveries of the old wizards.
 

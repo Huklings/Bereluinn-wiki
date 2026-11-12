@@ -30,8 +30,8 @@ A city on a mountainous rocky coast, built over the ruins of an elden elven city
 - **Who knows:** the Larhouse masters, a few Aelnor families, and [[Lurian]]'s archive houses. Students are told the stones are "foundations".
 
 ## The Larhouse
-The Levont's academy of magic. *Larhouse* is the common tongue's *lār-hūs*, "lore-house".
-- **The only licensed school** of arcane magic in the Levont. It answers 14.6 in part: this is where casters are trained.
+**Changed 12 Nov:** the name *Larhouse* is dropped (a new name is to come), and this is **one of at least two licensed schools** in the Levont, founded by [[Wizard Houses]]. The old name was the common tongue's *lār-hūs*, "lore-house"; this note still says "Larhouse" until the new name is chosen.
+- **A licensed school** of arcane magic. It answers 14.6 in part: this is where casters are trained.
 - **Graduates owe service:** years as council casters, certifying thin spots for reeves, fitting shard furnaces for [[The Railroad]], or keeping the [[Moon Shards]] registers.
 - **Why here:** the stones. Magic is a little easier in their shadow, and a little more dangerous.
 - **Limits** (working idea): if heavy magic thins [[The Veil]], a school full of casters on an elden site is a thin spot waiting to happen. That's what the wood and the druids are for.

@@ -43,7 +43,9 @@ A city on the southeast coast and its islands, built over the ruins of an elden 
 - **A licensed school** of arcane magic. It answers 14.6 in part: this is where casters are trained.
 - **Graduates owe service:** years as council casters, certifying thin spots for reeves, fitting shard furnaces for [[The Railroad]], or keeping the [[Moon Shards]] registers.
 - **Why here:** the stones. Magic is a little easier in their shadow, and a little more dangerous.
-- **Limits** (working idea): if heavy magic thins [[The Veil]], a school full of casters on an elden site is a thin spot waiting to happen. The Calenwood and its druids used to be the safeguard; since the move (12 Nov), what guards Merelon's thin spot is open.
+- **Limits** (working idea): if heavy magic thins [[The Veil]], a school full of casters on an elden site is a thin spot waiting to happen. The Calenwood and its druids used to be the safeguard.
+- **What keeps the thin spots in check (decided 12 Nov):** the local count, in a combined effort between the count's forces and the mages and wizards the tower produces. The tower and its creed are forced to work magic only in limited amounts, so as not to create more thin spots. Keeping within those limits may even be one of the tower's trials.
+  - *Suggestions (not canon):* the trial could be a student holding a thin spot steady for a night without widening it, under the count's soldiers' eyes. Folklore: "The count holds the spear, the tower holds its breath." Hook: the count's line and the tower quarrel over who decides when a thin spot is "too thin", and a village waits between them.
 
 ## The Calenwood (moved out, 12 Nov)
 The Calenwood and its druids stayed in slot C when Merelon moved. Everything about them is now in [[The Calenwood]] and [[Calenwood Circle]].
@@ -61,7 +63,9 @@ A silver-tongued villain has joined the Larhouse, as a master or a well-liked se
 
 ## Open questions
 - What were the stones built to do, and what do they still do?
-- Without the Calenwood beside it, what keeps the school's thin spot in check? (12 Nov)
+- ~~Without the Calenwood beside it, what keeps the school's thin spot in check?~~ (Answered 12 Nov: the local count and the tower's mages together, above.)
+- Is "the tower" the school's shape, its name, or both? (12 Nov)
+- Which count? Merelon was placed as a chartered town under the council (25 Oct); does it now sit in a county, or does the neighbouring count share the duty? (12 Nov)
 - Who founded the Larhouse, and when? Before or after the railroad?
 - Who funds it: the council, the churches, or student fees?
 - Who is the silver-tongued villain, and what is their cover?

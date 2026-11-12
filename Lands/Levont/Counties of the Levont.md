@@ -11,7 +11,7 @@ status: draft
 
 # Counties of the Levont
 
-Six counties, drawn at the founding across the old borders ([[Government of the Levont]]). Each began as an Oath site card in [[areas of the Levont]]. None is named yet, so they go by their land for now.
+Six counties, drawn at the founding across the old borders ([[Government of the Levont]]), and **a seventh, [[Dyklan]], split off later** (decided 12 Nov 2026). Each began as an Oath site card in [[areas of the Levont]]. None is named yet, so they go by their land for now.
 
 Following the design order (geography, then economy, then institutions), each county's economy gives it something to want from the council.
 
@@ -23,6 +23,7 @@ Following the design order (geography, then economy, then institutions), each co
 | 4 | Marshes | Old elven cities now home to elves, humans and halffolk. Red-winged crows trained for captains. A rumored vault of tomes | A military role for its crow-handlers, and its vault left alone |
 | 5 | Charming valley | A restless spirit in an elden dwarven hold, insomnia, a self-proclaimed Beast Lord, a thieves' guild under the lord's garrison | Help against the Beast Lord, without anyone looking too closely |
 | 6 | Plains | The widest way into the Levont. Garrisoned way stations, village constables, a twice-yearly parade. The county seat stands on an Elden human city with an ancient religious forge | Money for its garrisons, and rights to the forge's runic weapons |
+| 7 | [[Dyklan]], slot C (**canon, 12 Nov**) | The Giants' Dyke across the mountain pass; wall families who hold it by stretch; dire-beast hides and horn; the wall-penny. Split from County 5 after a roar year when its count failed to defend the wall | Keep paying the wall-penny, and believe them about the giants |
 
 ## Areas beyond the first six (placed 25 Oct, can be rearranged)
 The county map and the area map are two layers: a county can hold several areas, and some places answer to no county.

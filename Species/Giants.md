@@ -38,6 +38,13 @@ Mortal peoples with strong magical ties to [[The Tapestries]]. Many live in the 
 
 Raw material from the sources: hill, stone, frost, fire, cloud and storm giants. These are a starting point to rework, not kinds to copy.
 
+## The Giants' Dyke (decided 12 Nov)
+- **Giants built the Giants' Dyke** across the pass in slot C ([[Dyklan]]). It is far larger than anything humans have built.
+- **Giants still live beyond it,** among old ruins in the forest that now fills it ([[The Calenwood]]). **Most now live on the tapestry side**, in [[The Beast Tapestry]]; some venture out to their old ruins, where Levont people may fight them.
+- **Each side misreads the other:** the giants see the Levont folk as trespassers; the Levont folk see the giants as huge, hostile monsters.
+- **Their lost heir:** the heir to the old giant country went into the tapestry long ago and is lost in time. The roars from the fog are the giants calling for them.
+- *Suggestion:* these are the beast giants, and the oldest, wrong-way stretch of the Dyke was built to keep the [[Toad People]] out of the wood.
+
 ## Suggestions, not canon
 - **Why the beast giants have horns and teeth.** Time inside a tapestry changes any being ([[The Tapestries]]). Giants who cross into the beast tapestry over generations would come back changed. That is canon mechanics producing their look.
 - **Why they fight the dwarves.** If the weft is thinnest in certain mountains, giants would hold those peaks as sacred crossings, the seams. A dwarf empire with a hold in every mountain chain would have dug straight into them.
@@ -50,6 +57,7 @@ Raw material from the sources: hill, stone, frost, fire, cloud and storm giants.
 **(Answered 26 Oct: giants feel and may create seams, and anything can cross a seam open enough. See [[The Veil#How crossings work (decided 26 Oct)]].) If the gods sealed the tapestries, how can giants step through?** The Martyr's death walled the realms off, and no god may step into the mortal realm ([[The Tapestries]]). Giants crossing at will would be a hole in that wall. Either the seams are older than the sealing, or the giants have a right or a trick the gods allow, or they can only cross where the weft is already thin. Each answer says something different about what the giants are to the gods.
 
 ## Connections
+- [[Dyklan]]: the Giants' Dyke and the giants beyond it.
 - [[Dwarves]]: the old war.
 - [[Dragons]]: the other old war, fought with dwarf thralls.
 - [[Toad People]]: the beast giants' enemy.

@@ -21,14 +21,19 @@ A deep, thick wood filled with a fog that rarely lifts, in **slot C**, where the
 - **Why the wood is so thick:** perhaps the thin spot itself. The trees grow larger here, the way animals do near a bestial realm.
 - **Distance:** about 437 km from the capital, the farthest corner of the Levont.
 
+## Dyklan and the Giants' Dyke (decided 12 Nov)
+- **The Calenwood lies beyond the Giants' Dyke,** in the pass between slot C's two ranges and on the coast behind them. The Dyke, a giant-built wall, closes the pass; the wall country and the new seventh county, [[Dyklan]], lie on the Levont side.
+- **Giants still live on the far side,** among old ruins in the forest. Most now live on the tapestry side, and some venture out to the ruins, where Levont people may fight them.
+- **The roars** heard from the fog are the giants calling for their lost heir.
+- *Suggestion:* the fog land behind the Dyke is about 2,500 to 3,000 km², about the size of Luxembourg.
+
 ## Hooks
 - Someone comes back from the fog after three days and swears they were gone a year.
 - A lord wants to fell part of the Calenwood for timber or farmland; the druids refuse.
 
 ## Open questions (new 12 Nov)
-- Who lives in slot C besides the druids: villages, foresters, a town on the coast?
-- Which county is it in, if any?
+- ~~Who lives in slot C besides the druids, and which county?~~ (Answered 12 Nov: the wall families of [[Dyklan]], the seventh county, west of the Dyke; giants beyond it.)
 - With the school gone, does anyone in the Levont study the fog, or only the druids?
 
 ## Connections
-- [[Calenwood Circle]], [[The Beast Tapestry]], [[Tapio]], [[Green Wardens]], [[Levont Area Map]]
+- [[Dyklan]], [[Giants]], [[Calenwood Circle]], [[The Beast Tapestry]], [[Tapio]], [[Green Wardens]], [[Levont Area Map]]

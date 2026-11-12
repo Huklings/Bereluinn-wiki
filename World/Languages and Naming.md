@@ -305,6 +305,9 @@ These are our own, deliberately different from Khazalid's (*-az* for a thing, *-
 | **Sinkholm** | Old Norse | sunken islet | [[The Ackerdean]] |
 | *Dorchenthúrel* | Elvish | dark tower | [[The Ackerdean]] |
 | **Thrundrom** | Dwarvish | oath hall | [[The Ackerdean]] |
+| *Liavaird*, worn down to **the Lavard** (12 Nov) | Elvish | high mountain (*liav* + *aird*); locals think it means "lord" and call it the Old Lord | [[Dyklan]] |
+| **Dyklan** (12 Nov) | Common tongue | "Dykelands", shortened over time | [[Dyklan]] |
+| **the Giants' Dyke** (12 Nov) | Common tongue | Old English *dīc*, ditch and bank. Spare: *Thursdike*, from *þyrs*, giant (*Etten-* avoided: Tolkien) | [[Dyklan]] |
 
 ## Spare names
 Names you like that are free to use for something else:

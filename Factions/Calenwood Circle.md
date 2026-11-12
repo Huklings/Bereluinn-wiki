@@ -20,9 +20,12 @@ The druid circle of [[The Calenwood]], the foggy wood in slot C at the far east 
 ## The beastfolk are a fairy tale
 To almost everyone in the Levont, the talking beastfolk of the tapestry are bedtime stories: badgers in waistcoats, wolf-kings, tea with a hare. Nobody would give them a voice on the council, and nobody thinks they need one. **The circle knows better**: its druids have met them in the fog. They keep quiet, because saying so in public would get them laughed at, or worse.
 
+## Beside the Dyke (12 Nov)
+The wood now lies beyond the Giants' Dyke, with the wall families of [[Dyklan]] on the Levont side. The circle and the families both want the beasts kept in, but the druids think the families over-hunt (suggestion). *Suggestion:* the druids may suspect that the roars are giants calling for their heir.
+
 ## Suggestions (not canon)
 - A druid who once spoke up about the beastfolk was mocked out of the order. Some think he's still in the fog.
 - Local youths dare each other to walk in "to see the rabbits". Most come back with nothing. Some come back too quiet.
 
 ## Connections
-- [[The Calenwood]], [[Merelon]], [[The Beast Tapestry]], [[Tapio]], [[Green Wardens]]
+- [[The Calenwood]], [[Dyklan]], [[Merelon]], [[The Beast Tapestry]], [[Tapio]], [[Green Wardens]]

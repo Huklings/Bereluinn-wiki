@@ -38,7 +38,7 @@ How death, souls and resurrection work. Several gods and peoples have a piece of
 - **Resurrection and rebirth.** The vault says elves can be resurrected, except the [[Northern Elves]]. With a fixed pool of souls, does resurrection pull a soul back out of the queue?
 - **The northern elves lost rebirth too (decided 26 Oct).** Instead they use necromancy to draw the soul out of the body and bind it to a body, much like lichdom ([[Northern Elves]]).
 - **Who made the elves?** The gods are the wizards of old, who ascended. If the elves' maker was one of them, were there elves before the ascension? See [[Elven Pantheon]] and [[Timeline#The Ascension War (open, 26 Oct)]].
-- **Does it apply to every elf?** [[Aelnor]], [[Finelor]] and the northern elves.
+- **Does it apply to every elf?** [[Aelnor]], [[Finelor]] and the northern elves. *12 Nov:* the Finelor slowly turn back into elves ([[Finelor#Turning back into elves (decided 12 Nov 2026)]]); suggested, not canon, that the fading happens through rebirth, as their dunked souls wash out over many lives.
 
 ## Souls can change hands (decided 2 Nov)
 - **A soul goes to the gods its owner turns to.** Anyone, of any people, who starts worshipping another pantheon can have their soul claimed by those gods. Since 2 Nov, "bargain" means an oath kept by [[Verdan Ironoath]]; the soul itself goes where its worship painted it (see below). A dwarf who turns away from [[Ishgadrum]] can be lost to him. So humans are not the only ones open to this.

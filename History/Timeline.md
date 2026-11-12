@@ -29,7 +29,7 @@ The middle three rows come from the five-step shape in [[Kalmar Union Lessons]].
 
 ```mermaid
 timeline
-    title The Sleepless Lands
+    title Beredluinn
     section The Elden Era
         Before the war : Ishgadrum makes the dwarves
                        : Dragons enslave the dwarves

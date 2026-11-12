@@ -12,7 +12,7 @@ status: draft
 
 # The Beast Tapestry
 
-One of [[The Tapestries]], connected to beasts. It's the Sleepless Lands' own version of a feywild.
+One of [[The Tapestries]], connected to beasts. It's Beredluinn's own version of a feywild.
 
 **Its scope (decided 26 Oct):** not only beasts, but the wilds, nature, change, chaos and so on. Each tapestry is permeated by its lord's power as it was when it was made ([[The Tapestries#How they were made (decided 26 Oct)]]).
 

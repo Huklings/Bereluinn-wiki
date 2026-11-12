@@ -62,7 +62,7 @@ Beings grown strong inside the tapestries since the Sundering, without a mantle 
 Gods also form smaller groups around a shared goal, across good and evil, and one god can belong to several. Mortals can worship a whole group. See [[Side Pantheons]].
 
 ## Light and shadow
-Every god in the Sleepless Lands is gray: good gods have a shadow, and the opposing gods have a case. These pairings come from what's already in each god's note. They are suggestions, not canon.
+Every god in Beredluinn is gray: good gods have a shadow, and the opposing gods have a case. These pairings come from what's already in each god's note. They are suggestions, not canon.
 
 | God | Light | Shadow |
 | --- | --- | --- |

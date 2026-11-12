@@ -1,0 +1,5 @@
+# Sections left out of the website. Each line is the start of a heading:
+# "Open questions" also hides "Open questions (new 12 Nov)". Capitalisation
+# doesn't matter. A section runs until the next heading of the same or a
+# higher level. Your notes in Obsidian (and on GitHub) keep everything.
+Open questions

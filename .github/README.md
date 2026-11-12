@@ -16,6 +16,7 @@ The repo is **public**. Anything pushed here can be read on GitHub, even if the 
 - As a second guard, Quartz also skips those folders, notes with `draft: true` in their properties, and `%% comments %%`. Only images that a published note uses are copied to the site.
 - `%% comments %%` and `draft: true` notes are still readable in the repo. Put real secrets in an excluded folder.
 - Links to private notes listed in `.quartz-site/unlinked-notes.txt` show as plain text on the site (`.github/scripts/unlink.py`). The vault keeps the real links.
+- Sections whose headings start with a line in `.quartz-site/hidden-sections.txt` (e.g. "Open questions") are cut from the site (`.github/scripts/hide_sections.py`). They stay in the vault and in this repo.
 
 ## The home page
 

@@ -51,7 +51,7 @@ Other dwarf clans add weight: the Emberbeard keep the trains running and the Sal
 | Churches | Which faiths? | Ties to 9.2: which gods are official |
 | Guilds | Which guilds? | Railroad, miners and salt-makers, shard prospectors? |
 | [[Senven]] (the Witness House) | Aelnor notaries | Decided 25 Oct. Must witness every great charter and oath; witnessed the founding letter |
-| [[Masters of the Larhouse]] | The Merelon academy of magic | Decided 25 Oct, name still open. Speaks for licensed casters. Since 12 Nov one of at least two licensed schools, both founded by [[Wizard Houses]]: one seat or two is open |
+| [[Masters of the Larhouse]] | The Merelon academy of magic, Cloesolin (Saltmere Hall) | Decided 25 Oct; school named 12 Nov, masters' name still open. Speaks for licensed casters. Since 12 Nov one of at least two licensed schools, both founded by [[Wizard Houses]]: one seat or two is open |
 | [[The Pale Wardens]] | Finelor veil surveyors | Draft 25 Oct. A seat, or only a contract? |
 | [[Order of the Rising Sun]] | A seat, or none? | As a landholder, a church arm, or an outsider |
 

@@ -50,7 +50,7 @@ You think Pathfinder 2e's full spell lists are far too open. That's for another 
 ## Where it's taught (25 Oct)
 **Changed 12 Nov:** the name "Larhouse" is dropped, and it is not the only licensed school. There are **at least two licensed schools** in the Levont, and more places to learn in the Veiled Frontier that mages know of and ordinary people don't care about. The academies were founded by the [[Wizard Houses]], descended from the wizard-lords' apprentices; before [[The Parting]] there were no schools at all. Anyone can learn, but it is costly, hard and rigorous.
 
-The Merelon school (name to come) is built over an elden elven city whose standing stones still stand in its grounds ([[Merelon]]). Licensed graduates owe the council years of service. This answers part of 14.6.
+The Merelon school, **Cloesolin, the Hall of Lamps** (common folk say **Saltmere Hall**; named 12 Nov), is built over an elden elven city whose standing stones still stand in its grounds ([[Merelon]]). Licensed graduates owe the council years of service. This answers part of 14.6.
 
 ## Cost (working idea, not settled)
 Magic draws on the realms. Pulling on fire may thin [[The Veil]] to a fire realm where the spell is cast. Heavy magic use would then be dangerous and ill-advised, and the gods' limits would protect the veil as well as their thrones.

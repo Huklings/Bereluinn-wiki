@@ -34,7 +34,7 @@ From [Wizard Houses: Proposal](https://claude.ai/artifact/KVu1wNMxKN9URgyxtxH6dW
 - **Borrowing check:** close to *Dragon Age*'s Tevinter magisters, but those rule; ours are landless in the Levont. Hereditary noble magic echoes *Mistborn* (deliberate). "It's in the blood" snobbery echoes *Harry Potter*, which is why the truth is books. To score in [[Borrowed Ideas]].
 
 ## Open questions
-- Names: the wizard nobility as a class, their academies, and the Merelon school that replaces "Larhouse".
+- Names: the wizard nobility as a class, and their academies. (The Merelon school is named **Cloesolin, the Hall of Lamps**, common folk say Saltmere Hall, 12 Nov; [[Merelon]].)
 - Is Arklau a confirmed house? Which lord taught its founder?
 - Which two schools are licensed in the Levont, and where is the second?
 - Which Frontier kingdoms are ruled by the losers' heirs?

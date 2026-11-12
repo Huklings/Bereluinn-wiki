@@ -2,6 +2,7 @@
 type: faction
 aliases:
   - Larhouse masters
+  - Masters of Cloesolin
 tags:
   - type/faction
   - theme/magic
@@ -12,7 +13,7 @@ status: draft
 
 The governing body of the Larhouse, the Levont's licensed academy of magic in [[Merelon]]. Mixed species, with many [[Aelnor]] scholars. Added 25 Oct 2026. **The idea is decided; the name still needs work.**
 
-**Changed 12 Nov:** the name "Larhouse" is dropped, and the school is one of at least two licensed schools, founded by [[Wizard Houses]]. The masters, and both their name and the school's, wait for the naming pass. The candidates below are kept for reference; the Larmoot shares a root with Witan, which you turned down.
+**Changed 12 Nov:** the name "Larhouse" is dropped, and the school is one of at least two licensed schools, founded by [[Wizard Houses]]. **The school is now named Cloesolin, the Hall of Lamps** (common folk: Saltmere Hall), decided 12 Nov ([[Merelon]]). The masters' own name still waits; *Masters of Cloesolin* is a working label, suggestion only. The candidates below are kept for reference; the Larmoot shares a root with Witan, which you turned down.
 
 ## Name candidates
 - **The Larmoot:** common tongue *lār* "lore" + *mōt* "assembly", like the Anglo-Saxon *witenagemot*.

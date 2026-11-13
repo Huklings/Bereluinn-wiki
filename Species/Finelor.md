@@ -51,6 +51,7 @@ Secluded elves, descended from those who defected to the good side in [[The Sund
 ## Connections
 - [[The Pale Wardens]]: a draft Finelor faction of veil surveyors (25 Oct).
 - [[Northern Elves]]: the elves who stayed with the betrayer gods share the Finelor's tall, long-limbed body, but not their horns or bestial faces. Is the long body the mark of the betrayer side?
+  - whom they call the Caillten (13 Nov 2026)
 - [[The Veil]]: time inside a tapestry mutates a being. Was the Finelor ordeal a stay in a god's realm (10.7)?
 - [[Sides of the Sundering]]: they defected from the side opposed to the tapestries. Was their ordeal the price?
 - [[Lurian]]: his clergy may hold the record of their ordeal (10.6).

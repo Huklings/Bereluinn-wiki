@@ -46,6 +46,7 @@ Sun-touched elves. Proud and adventurous. Their kingdom fell, and they now live 
 ## Connections
 - [[Senven]]: the Witness House, Aelnor notaries who must witness every great charter in the Levont (25 Oct).
 - [[Northern Elves]]: the elves who joined the betrayer gods. Unlike them, other elves can be resurrected.
+  - whom they call the Caillten (13 Nov 2026)
 - [[areas of the Levont]]: Area 4's marshes once held large, glamorous elven cities and are now home to forest-loving elves.
 - [[The Contest of the 41 Pillars]]
 - [[Finelor]]: the other elven people.

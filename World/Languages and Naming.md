@@ -196,7 +196,7 @@ Old and sacred texts keep the *h* spellings. Everyday writing in the Levont uses
 | god | dían | *dia* | |
 | tear | deor | *deoir* | For [[The Martyr]]'s tears |
 | crow | préan | *préachán* | For the red-winged crows of the marshes |
-| lost | caillte | *caillte* | Gives Caillten, the other elves' name for the northern elves (13 Nov 2026) |
+| lost | caillte | *caillte* | Gives Caillten, the other elves' name for the northern elves (13 Nov 2026). The echo with *caillen* (veil) is kept on purpose (13 Nov 2026) |
 
 ### Examples
 - **Nechodhlath**, "the place of no sleep" (*ne-* + *codhla* + *-ath*): what the elves might call the sleepless country (coined for the old working title, "the Sleepless Lands"; the world is now Bereluinn). Humans would wear it down to something like *Neckla*.

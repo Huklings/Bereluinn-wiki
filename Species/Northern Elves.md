@@ -25,7 +25,7 @@ The remnants of the elves who joined the betrayer gods in [[The Sundering]]. The
 - **They lost rebirth too (decided 26 Oct).** Other elves are reborn ([[Death and the Afterlife#Elves are reborn (decided 26 Oct)]]); the northern elves are not.
 - **Their necromancy (decided 26 Oct):** they draw the soul out of the body and bind it to a body, much like lichdom in D&D.
 - **Body:** taller, slender, with long arms and legs, like the [[Finelor]], but without their horns and bestial faces.
-- **Other elves call them the Caillten** (decided 13 Nov 2026): the Finelor and Aelnor name, from Elvish *caillte* (suggested meaning 'the lost', from Irish *caillte*; not yet confirmed).
+- **Other elves call them the Caillten** (decided 13 Nov 2026): the Finelor and Aelnor name, from Elvish *caillte*. The name means "the lost": lost to their god (they lost rebirth) and lost to the other elves, lost kin (decided 13 Nov 2026). It sounds like *caillen*, "veil", on purpose (an echo).
 
 ## The Airden (decided 13 Nov 2026)
 - **The northern elves were Airden too,** reworked like the others, and split off later, in [[The Sundering]]. Full summary: [[Aelnor#The Airden (decided 13 Nov 2026)]].

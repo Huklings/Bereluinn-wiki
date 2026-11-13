@@ -41,6 +41,13 @@ Secluded elves, descended from those who defected to the good side in [[The Sund
 - **Hooks:** a Finelor child is reborn *more* beastlike than their last life (is Faelath pulling them back?); a Keeping elder looks for a way to stop the fading, perhaps the northern elves' soul-binding; the [[The Pale Wardens|Pale Wardens]] fear that when the horns are gone, so is their gift.
 - **Borrowing check:** marks carried through rebirth are an old folk idea; nothing close to one specific work.
 
+## The Airden (decided 13 Nov 2026)
+- **The Finelor were Airden too.** All elves were once one people, the Airden, made by [[Athréth]] and his apprentices, then reworked by the elven gods (the Cirenoth) into more numerous elves with less magic. Full summary: [[Aelnor#The Airden (decided 13 Nov 2026)]].
+- **They keep the animal traits all elves keep:** long, large ears like a hunting animal's, pointier noses, narrowed eyes with dark eyeliner-like lines, sharper teeth.
+- **Kin trees:** a soul is reborn only near a living kin tree, whose roots reach the Waiting Wood.
+- **Lairds:** souls with lingering Airden essence, born to meet a great beast, a tie that comes from [[Faelath]] pulling her power away from the Airden.
+- **No oaths and the closed night:** elves swear no oaths, and once a year shut their doors to all outsiders.
+
 ## Connections
 - [[The Pale Wardens]]: a draft Finelor faction of veil surveyors (25 Oct).
 - [[Northern Elves]]: the elves who stayed with the betrayer gods share the Finelor's tall, long-limbed body, but not their horns or bestial faces. Is the long body the mark of the betrayer side?

@@ -26,6 +26,13 @@ The remnants of the elves who joined the betrayer gods in [[The Sundering]]. The
 - **Their necromancy (decided 26 Oct):** they draw the soul out of the body and bind it to a body, much like lichdom in D&D.
 - **Body:** taller, slender, with long arms and legs, like the [[Finelor]], but without their horns and bestial faces.
 
+## The Airden (decided 13 Nov 2026)
+- **The northern elves were Airden too,** reworked like the others, and split off later, in [[The Sundering]]. Full summary: [[Aelnor#The Airden (decided 13 Nov 2026)]].
+- **The rework is a wound,** above all for them: they already distrust their maker, [[Athréth]].
+- **They keep the animal traits all elves keep:** long, large ears like a hunting animal's, pointier noses, narrowed eyes with dark eyeliner-like lines, sharper teeth.
+- **Kin trees:** a soul is reborn only near a living kin tree, whose roots reach the Waiting Wood. Kin trees can be corrupted and become anchors for other tapestries, with horrible results.
+- **No oaths and the closed night:** elves swear no oaths, and once a year shut their doors to all outsiders.
+
 ## The three branches of the elves
 | Branch | Side in the Sundering | Body | Death |
 | --- | --- | --- | --- |

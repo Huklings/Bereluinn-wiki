@@ -28,6 +28,13 @@ The gods of the [[Aelnor]] and [[Finelor]].
 - **[[The Sunturner]] is one of the gods the elves worship** (29 Oct). **Only the [[Aelnor]] invoke her in battle,** as a more benevolent warrior goddess than [[Faelath]]. They turned to her when Faelath fell out of favour.
 - **Elves also favour [[Tapio]] and [[Lady Bluecloak]]** (Mielikki, in the Finnish myth the vault borrows from).
 
+## The Cirenoth (decided 13 Nov 2026)
+- **The elven pantheon is called the Cirenoth,** good and bad gods alike: [[Athréth]], [[Gaesín]], [[Faelath]], [[The Martyr]] and [[Ádhín]]. Ádhín still has no special tie to the Martyr.
+- **Athréth and his apprentices made the first elves, the Airden.** Several apprentices later became gods, such as Gaesín and Faelath.
+- **What they made them from:** [[Ishgadrum]] gave the dwarves stone and earth; the Cirenoth took from trees and growing things, and from the elegance of animals like foxes and wolves.
+- **Proud makers.** They gave the Airden far more raw creation magic than other peoples got, which led to the first true wizard war. Spent, they retreated, limited elven numbers and reworked the elves: less magic, more numerous. See [[Aelnor#The Airden (decided 13 Nov 2026)]].
+- **Faelath pulled her share of power away from the Airden.** That is why elves are still tied to great beasts (Lairds).
+
 ## The elves' maker (26 Oct)
 The god who made the elves had to make them die after about 400 years, and in return made them reborn ([[Death and the Afterlife#Elves are reborn (decided 26 Oct)]]). **Decided 29 Oct: [[Athréth]].** **Decided 26 Oct:** every race was made by an elden wizard-lord, so the elves' maker was one too, like [[Ishgadrum]] with the dwarves ([[Pantheon#Where the gods came from (decided 26 Oct)]]).
 

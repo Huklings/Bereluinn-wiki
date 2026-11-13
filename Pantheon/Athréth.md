@@ -40,6 +40,14 @@ Like every tapestry, it embodies its essence rather than containing it: a realm 
 ### His shadow
 His mantle has bent him toward waiting until he cannot let anything go (the way a Shard's Intent bends its Vessel, in Sanderson's Cosmere). That is why the northern elves' grey trees still stand.
 
+## The Airden (decided 13 Nov 2026)
+- **He and his apprentices made the Airden,** the first elves, deep in [[The Elden Era]], a bit after the dwarves. Several apprentices later became gods, such as [[Gaesín]] and [[Faelath]]. Together they are the Cirenoth ([[Elven Pantheon#The Cirenoth (decided 13 Nov 2026)]]).
+- **His circle was proud** and gave the Airden far more raw creation magic than other peoples. The other wizard-lords stepped in when the Airden marched for land: some say the first true wizard war.
+- **The rework.** Spent, the Cirenoth retreated, limited elven numbers and reworked the elves: less magic, more numerous.
+- **Kin trees** hold the magic cut out of the Airden. Their roots reach his Waiting Wood, and a soul is reborn only near a living kin tree.
+- **The rework is a wound** for some elves, above all the [[Northern Elves]], who already distrust their maker.
+- Full summary: [[Aelnor#The Airden (decided 13 Nov 2026)]].
+
 ## Open questions
 - Why the limit? One reading (suggestion): the first elves never died, went hollow and mad over the ages, and the maker gave them an ending and a return.
 - Which side in the Sundering?

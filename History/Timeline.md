@@ -58,6 +58,17 @@ The table below lists the same events with their notes. Exact years for the 600-
 | [[The Founding of the Levont]] | [[The Current Era]] | About 120 years ago (decided 22 Oct) |
 | [[Moon Shards]] keep falling | Today | Fuel for magic and [[The Railroad]] |
 
+## The Airden in the Elden Era (decided 13 Nov 2026)
+In order, all deep in [[The Elden Era]]; no dates yet.
+1. [[Ishgadrum]] makes the [[Dwarves]]. The [[Dragons]] take and enslave them before they can become a society.
+2. A bit later, [[Athréth]] and his apprentices make the **Airden**, the first elves and the first proper gifted society.
+3. The Airden march to claim land; the other wizard-lords step in. Some call it the first true wizard war.
+4. The elven gods (the Cirenoth), spent, limit elven numbers and **rework the elves**: less magic, more numerous. Kin trees hold the magic cut out of them.
+5. Later, the gods of the orcs, goblins and hobgoblins strike by surprise. **The Airden kingdom is the first to fall**; the elves flee and regroup.
+6. The all-out war follows, which leads to [[The Apotheosis|the Parting]]. The [[Northern Elves]] split off in [[The Sundering]].
+
+See [[Aelnor#The Airden (decided 13 Nov 2026)]].
+
 ## The Ascension War (open, 26 Oct)
 You called the war in which the wizards became gods **the ascension war**, and said it is the war the Levont was created by. That clashes with the dates above, so it's saved to sit down with at home.
 - The vault places [[The Apotheosis]] at the end of [[The Sundering]], about 600 years ago, and the founding about 120 years ago.

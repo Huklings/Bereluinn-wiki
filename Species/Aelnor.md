@@ -28,6 +28,21 @@ Sun-touched elves. Proud and adventurous. Their kingdom fell, and they now live 
 - Worship the [[Elven Pantheon]].
 - **[[The Sunturner]] is their warrior goddess** (29 Oct). Elves worship her as one of their gods, but only the Aelnor invoke her in battle, as a more benevolent warrior goddess than [[Faelath]], the elven hunter. They turned to her when Faelath fell out of favour.
 
+## The Airden (decided 13 Nov 2026)
+- **One people once.** The Aelnor, the [[Finelor]] and the [[Northern Elves]] all come from the Airden, made by [[Athréth]] and his apprentices deep in [[The Elden Era]], a bit after the dwarves.
+- **Too strong.** Athréth's proud circle gave the Airden far more raw creation magic than other peoples. When the Airden marched to claim land, the other wizard-lords stepped in: some say the first true wizard war.
+- **The rework.** The elven gods, the Cirenoth ([[Elven Pantheon]]), had spent too much magic. They had to limit elven numbers, and they reworked their children: less magic, more numerous.
+- **Animal traits all elves keep:** long, large ears like a hunting animal's, pointier noses, narrowed eyes with dark lines like eyeliner, sharper teeth.
+- **Kin trees.** The elves' tie to nature moved from inside them into a great kin tree at the heart of each elven society. It stores the raw magic cut out of the Airden and is the road home: its roots reach the Waiting Wood, and a soul is reborn only near a living kin tree. Some still live. A corrupted kin tree can become an anchor for other tapestries, with horrible results.
+- **The fall.** The Airden kingdom was the first to fall when the gods of the orcs, goblins and hobgoblins struck by surprise. The elves fled, regrouped, and the all-out war followed that led to [[The Apotheosis|the Parting]].
+- **The last king** of the Airden died. His throne sits empty and he has not been reborn; elves long for his return.
+- **Lairds:** souls that still hold lingering essences of the Airden. Because [[Faelath]] pulled her share of power away from the Airden, elves are still tied to great beasts: a Laird is born destined to meet one, to slay it or befriend it. (Suggestion, not canon: elves say "Aird", "the high one", and humans heard "Laird".)
+- **No oaths.** Elves do not swear oaths, so oath-loving dwarves mistrust them.
+- **The closed night:** once a year elves shut their doors to all outsiders.
+- Other peoples still say "the elves were terrible and powerful".
+- The rework is a wound for some elves. Power-hungry elves want to restore the Airden's glory.
+- No one knows, elves included, whether the ancient Airden ever died; claimed memories of Airden souls disagree.
+
 ## Connections
 - [[Senven]]: the Witness House, Aelnor notaries who must witness every great charter in the Levont (25 Oct).
 - [[Northern Elves]]: the elves who joined the betrayer gods. Unlike them, other elves can be resurrected.
